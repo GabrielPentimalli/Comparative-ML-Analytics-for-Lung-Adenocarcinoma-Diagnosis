@@ -134,7 +134,7 @@ This project is distributed under the MIT License. See `LICENSE` for more inform
 
 **Gabriel Pentimalli**
 - 📧 Email: gab.pentimalli@stud.uniroma3.it
-- 🎓 LinkedIn: [linkedin.com/in/profile](https://www.linkedin.com/in/gabriel-pentimalli-54180625a/)
+- 🎓 LinkedIn: [Gabriel Pentimalli](https://www.linkedin.com/in/gabriel-pentimalli-54180625a/)
 - 🐙 GitHub: [@GabrielPentimalli](https://github.com/GabrielPentimalli)
 
 ---
