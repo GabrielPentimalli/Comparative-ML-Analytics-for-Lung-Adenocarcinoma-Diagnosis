@@ -18,7 +18,7 @@ This project applies advanced machine learning algorithms to metabolomic data an
 
 **Source**: Metabolomics Workbench (Dataset ID: ST000339)  
 **Type**: GC-MS data from serum and plasma  
-**Dimensions**: 181 metabolites × 185 samples  
+**Dimensions**: 181 metabolites × 181 samples  
 **Classes**: 
 - 🔴 Adenocarcinoma: 100 samples
 - 🟢 Healthy: 81 samples
@@ -72,7 +72,6 @@ jupyter >= 1.0
 
 ### 2. **Feature Selection**
 - Chi-square test for most significant feature selection
-- Dimensionality reduction with PCA (optional)
 - Relevant biomarker identification
 
 ### 3. **Model Training & Optimization**
